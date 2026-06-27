@@ -20,8 +20,6 @@ The app retrieves guidance from indexed documentation, answers questions in chat
 - [Knowledge base documents](#knowledge-base-documents)
 - [Troubleshooting](#troubleshooting)
 - [Tech stack](#tech-stack)
-- [About the course](#about-the-course)
-- [Acknowledgements](#acknowledgements)
 
 ---
 
